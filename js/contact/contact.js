@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".info-contact .map").fancybox({type:"iframe",baseClass:"designPopupContact",toolbar:!1,smallBtn:!0})});

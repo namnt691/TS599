@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".vnt-visa .grid").mCustomScrollbar({axis:"x"}),$(".gridFluid3").mCustomScrollbar({axis:"x"})});
