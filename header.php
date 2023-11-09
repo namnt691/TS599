@@ -41,7 +41,7 @@
                 </div>
                 <div class="header-tools">
                   <div class="menuTop hidden-sm hidden-xs">
-                    <ul>
+                    <!-- <ul>
                       <li class="nopos current"><a href="lien-he-tour.html">Du lịch</a>
                         <div class="megaMenu">
                           <div class="grid">
@@ -273,7 +273,8 @@
                           <li><a href="view360/index.html" target="_blank">Visual 360°</a></li>
                         </ul>
                       </li>
-                    </ul>
+                    </ul> -->
+                    <?php wp_nav_menu( array( 'menu_class' => 'navbar-nav mx-lg-auto', 'container' => 'ul', )); ?>
                   </div>
                   <div class="menuToggle hidden-sm hidden-xs">
                     <div class="icon"><span></span></div>
