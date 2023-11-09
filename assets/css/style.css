@@ -38271,8 +38271,8 @@ select {
 }
 
 .topHead {
-    background: #ed0080;
-    background: linear-gradient(90deg, #ed0080 0, #be3b98 100%)
+    background: #29499A;
+    /* background: linear-gradient(90deg, #29499A 0, #be3b98 100%) */
 }
 
 .topHead .wrapper {
